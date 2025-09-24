@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Developer Platform](README.md)
+* [Master Strategy Playbook](README.md)
+* [First Week Strategy](first-week-strategy.md)
