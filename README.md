@@ -4,7 +4,7 @@ description: >-
   guide will help you become the ultimate Warden in Lands of Jail.
 ---
 
-# Master Strategy Playbook
+# Strategy Playbook
 
 {% hint style="success" %}
 **New to the game?** Start with our Quick Start Guide to avoid costly mistakes and accelerate your progress.
@@ -12,43 +12,43 @@ description: >-
 
 ## 🎯 What You'll Master
 
-### 🚀 **Quick Start Strategies**
+### **Quick Start Strategies**
 
 * Critical first-week decisions that set you up for success
 * Diamond spending priorities (hint: don't waste them on speed-ups!)
 * Essential building order for maximum efficiency
 
-### 🏗️ **Prison Management**
+### **Prison Management**
 
 * Optimal facility layouts and upgrade priorities
 * Prisoner happiness strategies to prevent riots
 * Security systems and guard management
 
-### 💰 **Economic Mastery**
+### **Economic Mastery**
 
 * Income optimization techniques
 * Smart resource allocation
 * Budget management for sustainable growth
 
-### ⚔️ **Combat & Hunting**
+### **Combat & Hunting**
 
 * Fugitive tracking strategies
 * Officer development and team composition
 * Advanced combat tactics
 
-### 🤝 **Alliance Warfare**
+### **Alliance Warfare**
 
 * Choosing the right alliance
 * Coordinated attack strategies
 * Defense optimization
 
-### 🎪 **Events & Rewards**
+### **Events & Rewards**
 
 * Maximizing event rewards
 * Active redemption codes (updated regularly!)
 * Seasonal event strategies
 
-## 📋 Quick Navigation
+## Quick Navigation
 
 {% tabs %}
 {% tab title="New Players" %}
@@ -70,7 +70,7 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-## 🔥 Most Popular Guides
+## Most Popular Guides
 
 | Guide                | Difficulty   | Impact | Read Time |
 | -------------------- | ------------ | ------ | --------- |
@@ -79,21 +79,21 @@ description: >-
 | Prison Layout Design | Intermediate | 🔥🔥   | 8 min     |
 | Treasure Dice Event  | Intermediate | 💎💎   | 6 min     |
 
-## 📱 About Lands of Jail
+## &#x20;About Lands of Jail
 
 Lands of Jail is a strategic prison management simulation where you serve as Warden of the Isle of the Banished. Balance prisoner needs, facility upgrades, resource management, and strategic combat to build the ultimate prison empire.
 
 **Core Game Elements:**
 
-* 🏗️ **Prison Building** - Design efficient, riot-free facilities
-* 👥 **Prisoner Management** - Balance security with prisoner satisfaction
-* 🎯 **Fugitive Hunting** - Track down dangerous escapees
-* ⚔️ **Alliance PvP** - Coordinate with teammates for dominance
-* 🎪 **Special Events** - Participate in limited-time challenges
+* &#x20;**Prison Building** - Design efficient, riot-free facilities
+* &#x20;**Prisoner Management** - Balance security with prisoner satisfaction
+* **Fugitive Hunting** - Track down dangerous escapees
+* **Alliance PvP** - Coordinate with teammates for dominance
+* **Special Events** - Participate in limited-time challenges
 
 ***
 
-## 🚀 Ready to Start?
+## Ready to Start?
 
 {% hint style="warning" %}
 **Critical First Step:** Read the First Week Strategy before spending any diamonds!
@@ -103,10 +103,10 @@ The most successful Wardens follow a strategic approach from day one. Don't make
 
 ***
 
-## 📞 Community & Updates
+## Community & Updates
 
-* 📢 [Official Discord](https://discord.com/invite/lands-of-jail) - Real-time help and updates
-* 📘 [Facebook Page](https://facebook.com/LandsofJail) - Official announcements
-* 🔄 **Last Updated:** This playbook is regularly updated with new strategies and codes
+* [Official Discord](https://discord.com/invite/lands-of-jail) - Real-time help and updates
+* [Facebook Page](https://facebook.com/LandsofJail) - Official announcements
+* **Last Updated:** This playbook is regularly updated with new strategies and codes
 
-💡 **Bookmark this guide** and check the Active Codes section weekly for fresh rewards!
+**Bookmark this guide** and check the Active Codes section weekly for fresh rewards!

@@ -44,10 +44,10 @@ Your **most important purchase** should be the permanent second builder.
 
 **Why this is game-changing:**
 
-* ⚡ **Doubles construction speed** - Build two things simultaneously
-* 💰 **Saves hundreds of thousands of diamonds** over time
-* 🏗️ **Interior + Exterior building** - Upgrade prison while expanding
-* 🏆 **Competitive requirement** - Essential for keeping up with other players
+* **Doubles construction speed** - Build two things simultaneously
+* **Saves hundreds of thousands of diamonds** over time
+* **Interior + Exterior building** - Upgrade prison while expanding
+* **Competitive requirement** - Essential for keeping up with other players
 
 {% hint style="success" %}
 **Pro Calculation:** The second builder pays for itself after just 20 hours of construction time. Most players need 100+ hours of building in their first month.
@@ -143,7 +143,7 @@ Riots destroy your progress and waste precious resources. Prevent them with this
 * [ ] Participate in first alliance activity
 * [ ] Plan week 2 expansion strategy
 
-## 🎯 Advanced Day 1 Tips
+## Advanced Day 1 Tips
 
 ### Alliance Selection Strategy
 
@@ -197,7 +197,7 @@ Different prisoner types need different approaches:
 **Mistake #4:** Poor facility prioritization **Cost:** Inefficient resource usage **Fix:** Follow the building priority system above
 {% endhint %}
 
-## ⏭️ Week 2 Preview
+## Week 2 Preview
 
 Once you've mastered Week 1 fundamentals:
 

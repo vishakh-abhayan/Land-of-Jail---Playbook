@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Master Strategy Playbook](README.md)
+* [Strategy Playbook](README.md)
 * [First Week Strategy](first-week-strategy.md)
