@@ -12,7 +12,7 @@ description: >-
 
 ## ⭐ Day 1 Critical Priorities
 
-### 💎 The Golden Rule: Save Every Diamond
+### The Golden Rule: Save Every Diamond
 
 **Most Important Rule:** Never spend diamonds on speed-ups during tutorials or early construction.
 
@@ -38,7 +38,7 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-### 🔨 Priority #1: Second Builder (2,000 Diamonds)
+### &#x20;Priority 1: Second Builder (2,000 Diamonds)
 
 Your **most important purchase** should be the permanent second builder.
 
@@ -53,7 +53,7 @@ Your **most important purchase** should be the permanent second builder.
 **Pro Calculation:** The second builder pays for itself after just 20 hours of construction time. Most players need 100+ hours of building in their first month.
 {% endhint %}
 
-## 🏗️ Building Priority System
+## Building Priority System
 
 ### Phase 1: Survival (Days 1-3)
 
@@ -77,7 +77,7 @@ Optimize income and expand capacity:
 | 3        | **Work Areas**              | Prisoner labor income      | 2-3 different types |
 | 4        | **Medical Bay**             | Reduce riot risk           | Level 1-2           |
 
-## 💰 Resource Management Strategy
+## Resource Management Strategy
 
 ### Income Sources (Priority Order)
 
@@ -96,7 +96,7 @@ Optimize income and expand capacity:
 **Income Rule:** Never expand prisoner capacity faster than your ability to feed, house, and secure them. Unhappy prisoners = riots = lost progress.
 {% endhint %}
 
-## 🚨 Riot Prevention System
+## Riot Prevention System
 
 Riots destroy your progress and waste precious resources. Prevent them with this checklist:
 
@@ -118,7 +118,7 @@ Riots destroy your progress and waste precious resources. Prevent them with this
 **Riot Recovery Costs:** A single riot can cost 5,000+ resources to repair and 2-3 days to fully recover. Prevention is 10x cheaper than cleanup.
 {% endhint %}
 
-## 📋 Week 1 Master Checklist
+## Week 1 Master Checklist
 
 ### Day 1-2
 
@@ -179,7 +179,7 @@ Different prisoner types need different approaches:
 * Higher work output when managed well
 * Valuable but dangerous - worth the effort
 
-## 🔥 Common Week 1 Mistakes
+## Common Week 1 Mistakes
 
 {% hint style="danger" %}
 **Mistake #1:** Spending diamonds on speed-ups **Cost:** 3,000-5,000 diamonds wasted **Fix:** Be patient, start builds before logging off
@@ -209,7 +209,7 @@ Once you've mastered Week 1 fundamentals:
 
 ***
 
-## 🏆 Success Metrics
+## Success Metrics
 
 By the end of Week 1, you should have:
 
