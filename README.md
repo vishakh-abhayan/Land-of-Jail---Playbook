@@ -31,13 +31,13 @@ layout:
 
 ### What You'll Master
 
-#### [**Quick Start Strategies**](<README (1).md>)
+#### [**Quick Start** ](lands-of-jail-playbook/quick-start.md)
 
 * Critical first-week decisions that set you up for success
 * Diamond spending priorities (hint: don't waste them on speed-ups!)
 * Essential building order for maximum efficiency
 
-#### &#x20;**Prison Management**
+#### &#x20;[**Prison Management**](lands-of-jail-playbook/prison-management.md)
 
 * Optimal facility layouts and upgrade priorities
 * Prisoner happiness strategies to prevent riots

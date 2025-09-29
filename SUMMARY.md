@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Lands of Jail - Playbook](README.md)
-* [Strategy Playbook](<README (1).md>)
-* [First Week Strategy](first-week-strategy.md)
+  * [Quick Start](lands-of-jail-playbook/quick-start.md)
+  * [Prison Management](lands-of-jail-playbook/prison-management.md)
